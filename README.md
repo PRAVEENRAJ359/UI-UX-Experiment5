@@ -24,8 +24,8 @@ Behaviors
 Pain points
 
 ## Output:
-UI&UX DESIGN
-UNIT -5 LAB EXPERIMENT Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal). 1. Identifying and Writing Problem Statements
+
+ 1. Identifying and Writing Problem Statements
 ○ Identify user pain points.
 ○ Write 1–2 clear UX problem statements using a defined template: "[User] needs a way to [achieve goal] because [obstacle], which results in [impact]." 2. Identifying Appropriate Research Methods
 ○ Identify the most suitable research methods (e.g., surveys, interviews, usability testing, diary studies).
@@ -95,4 +95,5 @@ Finds sustainability claims vague, distrusts marketing buzzwords, struggles to f
 Motivations: Wants to make ethical choices that align with personal values, motivated by community and social proof
 Motivated by factual transparency, clear proof of sustainability, and cost-effectiveness
 
-## Result:To Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal) is completed
+## Result:
+To Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal) is completed
